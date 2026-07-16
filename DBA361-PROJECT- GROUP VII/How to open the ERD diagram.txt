@@ -1,0 +1,3 @@
+* After downloading the folder and the file,
+* Go to your web browser and type "draw.io"
+* The open an existing diagram from you drive
